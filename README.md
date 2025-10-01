@@ -28,8 +28,7 @@ ebooks-go/
 └─ README.md
 ```
 
-markdown
-Copiar código
+
 
 ## Paquetes incorporados (Go stdlib)
 `fmt`, `bufio`, `os`, `strings`
