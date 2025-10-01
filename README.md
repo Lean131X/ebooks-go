@@ -22,11 +22,13 @@ Diseñar un sistema básico que permita registrar libros y usuarios, y consultar
 Lectura real de e-books, autenticación/roles, BD real, reportes avanzados.
 
 ## Estructura planificada
+```
 ebooks-go/
 ├─ main.go
 ├─ usuarios.go
 ├─ libros.go
 └─ README.md
+```
 
 markdown
 Copiar código
