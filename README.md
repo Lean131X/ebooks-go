@@ -1,8 +1,6 @@
 # ebooks-go
 Sistema de Gestión de Libros Electrónicos (Go) - Aprendizaje Autónomo 1
 
-# ebooks-go
-Sistema de Gestión de Libros Electrónicos (Go) – Aprendizaje Autónomo 1
 
 ## Objetivo general
 Diseñar un sistema básico que permita registrar libros y usuarios, y consultar la información desde un menú en consola, aplicando estructuras de programación vistas en la Unidad 1 de Go.
